@@ -8,7 +8,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 83vh;
+    height: 100vh;
 }
 #projetos{
     transition: 0.5s;
@@ -35,4 +35,5 @@
 #roda {
     font-style: bold;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
