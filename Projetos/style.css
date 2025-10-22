@@ -16,5 +16,8 @@
 .card-body a{
   text-decoration: none;
   color: rgb(10, 10, 14);
-
 }
+#bla:hover{
+  color: rgb(235, 235, 235);
+}
+
