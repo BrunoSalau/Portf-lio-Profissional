@@ -1,0 +1,38 @@
+#title{
+    background: linear-gradient(90deg,rgb(87, 138, 247),rgb(1, 28, 85));
+}
+.back{
+    background-image: 
+      linear-gradient(rgba(0, 0, 0, 0.795), rgba(0, 0, 0, 0.199)), /* camada escura */
+      url(img1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 83vh;
+}
+#projetos{
+    transition: 0.5s;
+    border-radius: 2vh;
+    background: linear-gradient(0deg,rgb(109, 144, 226),rgb(13, 70, 194));
+}
+#projetos a{
+    text-decoration: none;
+    color: rgb(2, 2, 2);
+    font-style: bold;
+    font-family: cursive;
+}
+#curriculo{
+    transition: 0.5s;
+    border-radius: 2vh;
+    background: linear-gradient(0deg,rgb(109, 144, 226),rgb(13, 70, 194));
+}
+#curriculo a{
+    text-decoration: none;
+    color: rgb(2, 2, 2);
+    font-style: bold;
+    font-family: cursive;
+}
+#roda {
+    font-style: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

@@ -1,0 +1,19 @@
+.back{
+    background-image: 
+      linear-gradient(rgba(0, 0, 0, 0.795), rgba(0, 0, 0, 0.199)), /* camada escura */
+      url(www.gif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+#qd1{
+  transition: 0.5s;
+}
+#qd2{
+  transition: 0.5s;
+}
+.card-body a{
+  text-decoration: none;
+  color: rgb(10, 10, 14);
+}

@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: linear-gradient(90deg,rgb(62, 108, 206),rgb(42, 94, 206));
+}
+.Cabeçalho{
+    background-color: rgb(4, 57, 172);
+}
+.Titulo{
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+.Titulo h1{
+    font-family: Cambria;
+}
+.Sub_Titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.OBox{
+    display: flex;
+    width: 45vh;
+    justify-content: center;
+}
+.ABox{
+    background-color: rgba(0, 0, 0,0.2);
+    padding: 2vh;
+    border-radius: 3vh;
+}
+.Box .OBox .botao{
+    display: flex;
+    justify-content: center;
+    margin-top: 2vh;
+}
+.Box{
+    justify-content: center;
+    display: flex;
+
+}
+.Mostrar{
+    margin-top: 4vh;
+    display: flex;
+    justify-content: center;
+}
+.MostrarTabuada{
+    background-color: rgb(26, 80, 197);
+    height: 0.1vh;
+    width: 20vh;
+    padding: 3vh;
+    font-size: 2.5vh;
+    align-content: center;
+    border-radius: 2vh;
+    border: 2px solid black ;
+}
+.AnimTabuada{
+    transition: 0.5s;
+    background-color: rgb(26, 80, 197);
+    width: 20vh;
+    height: 30vh;
+    font-size: 2.5vh;
+    align-content: center;
+    border-radius: 2vh;
+    border: 2px solid black ;
+}
+.AnimTabuadaa{
+    transition: 0.5s;
+    background-color: rgb(26, 80, 197);
+    width: 30vh;
+    height: 30vh;
+    font-size: 2.5vh;
+    align-content: center;
+    border-radius: 2vh;
+    border: 2px solid black ;
+}
+.AnimTabuadaaa{
+    transition: 0.5s;
+    background-color: rgb(26, 80, 197);
+    width: 40vh;
+    height: 30vh;
+    font-size: 2.5vh;
+    align-content: center;
+    border-radius: 2vh;
+    border: 2px solid black ;
+}
+.AnimTabuadaaaa{
+    transition: 0.5s;
+    background-color: rgb(26, 80, 197);
+    width: 50vh;
+    height: 30vh;
+    font-size: 2.5vh;
+    align-content: center;
+    border-radius: 2vh;
+    border: 2px solid black ;
+}
+
+
